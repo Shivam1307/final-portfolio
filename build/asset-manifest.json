@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Shivam1307/My-Portfolio/static/css/main.3c34b052.css",
-    "main.js": "/Shivam1307/My-Portfolio/static/js/main.a955fdd0.js",
-    "static/media/shivam_resume.pdf": "/Shivam1307/My-Portfolio/static/media/shivam_resume.fc532f30c025ea35dc45.pdf",
-    "static/media/linkedin.png": "/Shivam1307/My-Portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
-    "static/media/illustration.svg": "/Shivam1307/My-Portfolio/static/media/illustration.94b5b86f17d9462c63e5b60ac118f03c.svg",
-    "static/media/me.svg": "/Shivam1307/My-Portfolio/static/media/me.9e0d8ff4c65dd47589bcd2a9d4b4fd75.svg",
-    "static/media/typescript-icon.svg": "/Shivam1307/My-Portfolio/static/media/typescript-icon.f3bc0fd998dea6b1266965436af97a49.svg",
-    "static/media/react-icon.svg": "/Shivam1307/My-Portfolio/static/media/react-icon.a010f287ea79ad0673b610a223faa951.svg",
-    "static/media/phone-icon.svg": "/Shivam1307/My-Portfolio/static/media/phone-icon.fc7195139d684fa2f6bb03b8b9816095.svg",
-    "static/media/email-icon.svg": "/Shivam1307/My-Portfolio/static/media/email-icon.a5dd245e834641e729e77e40309039c4.svg",
-    "static/media/html-icon.svg": "/Shivam1307/My-Portfolio/static/media/html-icon.185baee7db74b83bf22eec6a6def7644.svg",
-    "static/media/css-icon.svg": "/Shivam1307/My-Portfolio/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
-    "index.html": "/Shivam1307/My-Portfolio/index.html",
-    "static/media/js-icon.svg": "/Shivam1307/My-Portfolio/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
-    "main.3c34b052.css.map": "/Shivam1307/My-Portfolio/static/css/main.3c34b052.css.map",
-    "main.a955fdd0.js.map": "/Shivam1307/My-Portfolio/static/js/main.a955fdd0.js.map"
+    "main.css": "/Shivam1307/final-portfolio/static/css/main.3c34b052.css",
+    "main.js": "/Shivam1307/final-portfolio/static/js/main.362077fe.js",
+    "static/media/shivam_resume.pdf": "/Shivam1307/final-portfolio/static/media/shivam_resume.fc532f30c025ea35dc45.pdf",
+    "static/media/linkedin.png": "/Shivam1307/final-portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/illustration.svg": "/Shivam1307/final-portfolio/static/media/illustration.94b5b86f17d9462c63e5b60ac118f03c.svg",
+    "static/media/me.svg": "/Shivam1307/final-portfolio/static/media/me.9e0d8ff4c65dd47589bcd2a9d4b4fd75.svg",
+    "static/media/typescript-icon.svg": "/Shivam1307/final-portfolio/static/media/typescript-icon.f3bc0fd998dea6b1266965436af97a49.svg",
+    "static/media/react-icon.svg": "/Shivam1307/final-portfolio/static/media/react-icon.a010f287ea79ad0673b610a223faa951.svg",
+    "static/media/phone-icon.svg": "/Shivam1307/final-portfolio/static/media/phone-icon.fc7195139d684fa2f6bb03b8b9816095.svg",
+    "static/media/email-icon.svg": "/Shivam1307/final-portfolio/static/media/email-icon.a5dd245e834641e729e77e40309039c4.svg",
+    "static/media/html-icon.svg": "/Shivam1307/final-portfolio/static/media/html-icon.185baee7db74b83bf22eec6a6def7644.svg",
+    "static/media/css-icon.svg": "/Shivam1307/final-portfolio/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
+    "index.html": "/Shivam1307/final-portfolio/index.html",
+    "static/media/js-icon.svg": "/Shivam1307/final-portfolio/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
+    "main.3c34b052.css.map": "/Shivam1307/final-portfolio/static/css/main.3c34b052.css.map",
+    "main.362077fe.js.map": "/Shivam1307/final-portfolio/static/js/main.362077fe.js.map"
   },
   "entrypoints": [
     "static/css/main.3c34b052.css",
-    "static/js/main.a955fdd0.js"
+    "static/js/main.362077fe.js"
   ]
 }
